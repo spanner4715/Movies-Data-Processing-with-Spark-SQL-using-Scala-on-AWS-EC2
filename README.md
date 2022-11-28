@@ -9,4 +9,4 @@
 
 (3) Load data from local machine into Spark container via EC2 machine  
 
-(4) Perform analysis on Movie and Ratings data.
+(4) Perform analysis on Movie and Ratings data in Apache Spark by using Scala
