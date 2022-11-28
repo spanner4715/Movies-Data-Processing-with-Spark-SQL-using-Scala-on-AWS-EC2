@@ -10,3 +10,8 @@
 (3) Load data from local machine into Spark container via EC2 machine  
 
 (4) Perform analysis on Movie and Ratings data in Apache Spark by using Scala
+
+## Analysis  
+### (1) Top 10 movies Analysis  
+![image](https://user-images.githubusercontent.com/103509243/204380851-39de726b-3fd8-4853-87bf-f07ed642ac84.png)
+
