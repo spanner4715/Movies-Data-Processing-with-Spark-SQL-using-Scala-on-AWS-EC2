@@ -1,2 +1,12 @@
 # Movies-Data-Processing-with-Spark-SQL-using-Scala-on-AWS-EC2
-Analyzing the Movies and Ratings Dataset by using Spark SQL and Scala programming language
+## Architecture
+![image](https://user-images.githubusercontent.com/103509243/204367798-5df2ad58-ed59-43a5-a1d6-82b0fd75e64b.png)
+
+## Approach  
+(1) Create an AWS EC2 instance and launch it  
+
+(2) Create docker images by using docker-compose file, running on EC2 machine via ssh  
+
+(3) Load data from local machine into Spark container via EC2 machine  
+
+(4) Perform analysis on Movie and Ratings data.
