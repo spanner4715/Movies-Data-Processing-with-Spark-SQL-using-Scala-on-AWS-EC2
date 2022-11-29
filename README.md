@@ -18,4 +18,8 @@
 ### (2) Top 10 movies Analysis (Spark SQL)  
 ![image](https://user-images.githubusercontent.com/103509243/204414852-a7b3780c-9790-40b3-aa6e-4ed9b31e34fa.png)
 
+### (3) Top 3 reviewers according to the amount of customerid (Spark SQL)  
+![image](https://user-images.githubusercontent.com/103509243/204416923-601d13f0-d68e-4023-b210-db134b0f2e08.png)
+
+
 
