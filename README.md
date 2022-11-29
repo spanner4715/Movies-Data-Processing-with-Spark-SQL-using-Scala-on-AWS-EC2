@@ -15,3 +15,7 @@
 ### (1) Top 10 movies Analysis (RDD)  
 ![image](https://user-images.githubusercontent.com/103509243/204380851-39de726b-3fd8-4853-87bf-f07ed642ac84.png)
 
+### (2) Top 10 movies Analysis (Spark SQL)  
+![image](https://user-images.githubusercontent.com/103509243/204414852-a7b3780c-9790-40b3-aa6e-4ed9b31e34fa.png)
+
+
